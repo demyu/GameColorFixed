@@ -36,7 +36,7 @@ public class Database {
             }
             
         }catch(Exception ae){
-            System.out.println(ae);
+            
         }
         return model;
     }
